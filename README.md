@@ -18,8 +18,9 @@ Beside, make sure it can work even if there is no deteciton
 
 Before:
 
-![](test_movie.gif)
+<img src="https://github.com/luckyuho/head_detection/blob/master/test_movie.gif" height="400">
 
 After:
 
-![](output_movie.gif)
+<img src="https://github.com/luckyuho/head_detection/blob/master/output_movie.gif" height="400">
+
